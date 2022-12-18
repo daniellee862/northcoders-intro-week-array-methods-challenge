@@ -1,4 +1,4 @@
-# Array methods warm up task
+# Array methods warm up task.
 
 _Once you have **fork**ed and then **clone**d this repository_, complete the challenges in this order:
 
